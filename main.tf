@@ -3,8 +3,8 @@ resource "azurerm_resource_group" "rg-sudip" {
   location = centralindia
 }
 
-resource "azurerm_resource_group" "rg-tommy" {
-  name     = tommy_rg
+resource "azurerm_resource_group" "rg-new" {
+  name     = new_rg
   location = centralindia
 }
 
